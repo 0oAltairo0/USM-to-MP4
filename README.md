@@ -1,6 +1,5 @@
 # USM-to-MP4
 A tool for USM from Initial D,etc.
-# usm2mp4
 
 **中文** | [English](#usm2mp4-english)
 
@@ -85,8 +84,8 @@ pip install -r requirements.txt
 ### 4. 获取代码
 
 ```bash
-git clone https://github.com/<你的用户名>/usm2mp4.git
-cd usm2mp4
+git clone https://github.com/0oAltairo0/USM-to-MP4.git
+cd USM-to-MP4
 ```
 
 ---
@@ -220,7 +219,6 @@ A：不可以，脚本只接受 `.usm`。其它格式需要先转换成 USM 或�
 ```
 usm2mp4/
 ├── usm_to_mp4.py      # 主脚本
-├── requirements.txt   # 依赖说明（无第三方 Python 依赖）
 └── README.md
 ```
 
@@ -326,8 +324,8 @@ The file contains only comments and installs nothing — that is expected.
 ### 4. Get the code
 
 ```bash
-git clone https://github.com/<your-username>/usm2mp4.git
-cd usm2mp4
+git clone https://github.com/0oAltairo0/USM-to-MP4.git
+cd USM-to-MP4
 ```
 
 ---
